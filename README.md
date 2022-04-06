@@ -15,6 +15,7 @@ El presente trabajo se ha realizado de manera individual por Sinthia Guaigua.
     Ejecutable chromedriver.exe, que se utiliza para la simulación del scroll infinito. 
 
     2) Archivo pdf "Respuestas_SinthiaGuaigua.pdf", con las respuestas a los apartados del 1-10
+    3) Archivo csv "datos.csv", Data set generado, este archivo tambien se subio al Zenobo.
 
 -- El dataset se subio a Zenobo, el DOI generado es 10.5281/zenodo.6413272
 
